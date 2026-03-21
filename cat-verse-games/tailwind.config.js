@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        catPurple: "#6d28d9", // Um roxo legal para o seu tema
+        catPurple: "#6d28d9",
       },
     },
   },

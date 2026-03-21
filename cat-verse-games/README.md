@@ -24,19 +24,22 @@ O projeto foi construído seguindo boas práticas de engenharia de software para
 1. **Clonar o repositório:**
 
    ```bash
-   git clone [https://github.com/seu-usuario/cat-games-verse.git](https://github.com/seu-usuario/cat-games-verse.git)
+      git clone [https://github.com/seu-usuario/cat-games-verse.git](https://github.com/seu-usuario/cat-games-verse.git)
    ```
 
 2. \*_Instalar as dependências:_
 
    ```bash
-   npm install
+      npm install
    ```
 
-3. \*_Executar o projeto::_
+3. \*_Executar o projeto:_
+   Entre na pasta cat-verse-games e depois execute o comando do gerenciador de pacotes
+
    ```bash
-   npm run dev
+      npm run dev
    ```
+
    -Nota: As requisições à API funcionarão normalmente via localhost devido à configuração de proxy já inclusa no projeto.
 
 ## 🛠️ Estrutura das pastas

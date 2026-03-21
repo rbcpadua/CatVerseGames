@@ -1,9 +1,11 @@
 const Header = () => (
-  <header className="text-center">
-    <h1 className="text-3xl font-black text-catPurple tracking-tight">
-      🐾 CatVerse Game Finder
+  <header className="space-y-4">
+    <h1 className="text-6xl md:text-7xl font-black text-primary tracking-tighter leading-none">
+      CatVerse <span className="inline-block animate-bounce">🐱</span>
     </h1>
-    <p className="text-gray-500 text-sm">Encontre o jogo ideal para o seu PC</p>
+    <p className="text-xl md:text-2xl font-medium opacity-80 text-base-content">
+      Seu próximo jogo favorito está a um clique. 🚀
+    </p>
   </header>
 );
 

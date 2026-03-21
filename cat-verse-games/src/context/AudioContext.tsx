@@ -108,7 +108,7 @@ export const AudioProvider = ({ children }: { children: React.ReactNode }) => {
 
       const freq = 400 + value * 10;
 
-      osc.type = "sine"; // Som mais suave que o clique
+      osc.type = "sine";
       osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
 
       gain.gain.setValueAtTime(0.1, audioCtx.currentTime);
