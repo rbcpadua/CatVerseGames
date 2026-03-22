@@ -11,7 +11,7 @@ O **CatGamesVerseSelector** é uma plataforma inteligente para descoberta de jog
 - **Context API:** Gerenciamento de áudio e estados globais
 - **Testes de Unidade:** Jest + React Testing Library
 - **Testes E2E:** Cypress
-- 
+  
 ## 🏗️ Arquitetura e Padrões
 
 O projeto foi construído seguindo boas práticas de engenharia de software para garantir escalabilidade e legibilidade:
